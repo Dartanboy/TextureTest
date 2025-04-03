@@ -1,0 +1,8 @@
+name: TextureTest
+main: me.dartanboy.texturetest.TextureTest
+api-version: 1.21
+version: 1.0-SNAPSHOT
+commands:
+  getitem:
+    description: Get an item
+    usage: /<command>
